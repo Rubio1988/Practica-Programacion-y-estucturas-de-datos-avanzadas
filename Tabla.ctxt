@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tabla
+comment1.params=jug\ dia\ tabla
+comment1.target=Tabla(int,\ int,\ int[][])
+comment2.params=
+comment2.target=void\ tablaCenter()
+comment3.params=width\ height
+comment3.target=void\ moverTabla(int,\ int)
+comment4.params=jug\ dia\ tabla
+comment4.target=void\ initComponents(int,\ int,\ int[][])
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=evt
+comment6.target=void\ jButton1ActionPerformed(java.awt.event.ActionEvent)
+numComments=7

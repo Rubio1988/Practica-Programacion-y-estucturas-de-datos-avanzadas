@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Torneo
+comment1.params=numJugadores
+comment1.target=Torneo(int)
+comment2.params=numJugadores\ tabla
+comment2.target=void\ crearTabla(int,\ int[][])
+comment3.params=numero
+comment3.target=boolean\ par(int)
+numComments=4
